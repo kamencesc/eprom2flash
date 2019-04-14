@@ -11,4 +11,4 @@ To use 1 Bank (as a 27C800), use Bank 1 and close jumpers "B1 only".
 
 To use 2 Bank (as a 27c160), use a 74x139 tsop16.
 
-(./boardv1.png)
+(boardv1.png)
